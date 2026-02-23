@@ -1,3 +1,6 @@
-node_modules
+node_modules/
+frontend/node_modules/
+dist/
 .env
-dist
+venv/
+.venv/
